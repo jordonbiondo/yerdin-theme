@@ -1,4 +1,11 @@
 * Yerdin Theme
 ** It's a theme
 *** Screenshots
-    (on their way)
+**** Java
+     [[http://imgur.com/aQlKUin.png]]
+**** Go
+     [[http://imgur.com/pKmptL6.png]]
+**** Javascript
+     [[http://imgur.com/hJr6sEX.png]]
+**** C
+     [[http://imgur.com/NZ0AKXB.png]]
